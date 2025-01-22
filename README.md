@@ -8,6 +8,10 @@ Dataset ini memberikan pemahaman mengenai preferensi belanja pelanggan dan pola 
 Dataset ini bersifat sintetis untuk menganalisis tren konsumen, mengoptimalkan penawaran produk, meningkatkan kepuasan pelanggan, dan mendukung pengambilan keputusan berbasis data. 
 
 Source dataset: https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset/data 
+
+## Dashboard
+![image](https://github.com/user-attachments/assets/9c415e99-4ca8-450b-bfce-ec3862a51350)
+
 ## Contents
 -	Menampilkan pola penjualan berdasarkan musim dan kategori produk.
 -	Menganalisis dominasi gender pembeli dan preferensi ukuran produk.
@@ -28,4 +32,4 @@ Source dataset: https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopp
 -	memastikan stok ukuran M selalu tersedia untuk menghindari kehilangan potensi penjualan.
 -	Meningkatkan pengalaman pembayaran kartu kredit dengan menawarkan promo khusus seperti cashback.
 
-## Dashboard
+
